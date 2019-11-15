@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "37ed6c5c0a8edcd29115723118121d89"
+build_time: [1573795048, 358699000]
+inputs:
+  "/Users/macbookpro/Documents/iosDev/iamrich/iamrich/ViewController.swift": [1573706825, 952747150]
+  "/Users/macbookpro/Documents/iosDev/iamrich/iamrich/AppDelegate.swift": [1573706825, 933438227]
+  "/Users/macbookpro/Documents/iosDev/iamrich/iamrich/SceneDelegate.swift": [1573706825, 948555351]

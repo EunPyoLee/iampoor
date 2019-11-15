@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>18FED74D-1481-4A1C-994D-EB222C755EA4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>18FED74D-1481-4A1C-994D-EB222C755EA4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>iamrich project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>iamrich</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build iamrich</string>
+			<key>timeStartedRecording</key>
+			<real>595483958.70471895</real>
+			<key>timeStoppedRecording</key>
+			<real>595483964.93490195</real>
+			<key>title</key>
+			<string>Build iamrich</string>
+			<key>uniqueIdentifier</key>
+			<string>18FED74D-1481-4A1C-994D-EB222C755EA4</string>
+		</dict>
+		<key>4C74B383-365E-4856-9F94-08398654FB97</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4C74B383-365E-4856-9F94-08398654FB97.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>iamrich project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>iamrich</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build iamrich</string>
+			<key>timeStartedRecording</key>
+			<real>595488067.64341199</real>
+			<key>timeStoppedRecording</key>
+			<real>595488067.70171106</real>
+			<key>title</key>
+			<string>Build iamrich</string>
+			<key>uniqueIdentifier</key>
+			<string>4C74B383-365E-4856-9F94-08398654FB97</string>
+		</dict>
+		<key>D7AFE29E-2693-4A98-90DC-2D3FB7BB23B6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D7AFE29E-2693-4A98-90DC-2D3FB7BB23B6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>iamrich project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>iamrich</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build iamrich</string>
+			<key>timeStartedRecording</key>
+			<real>595487968.51907396</real>
+			<key>timeStoppedRecording</key>
+			<real>595487968.63706803</real>
+			<key>title</key>
+			<string>Build iamrich</string>
+			<key>uniqueIdentifier</key>
+			<string>D7AFE29E-2693-4A98-90DC-2D3FB7BB23B6</string>
+		</dict>
+		<key>FF14FCD1-8A3C-418E-A4EE-F318EAD2DF5C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FF14FCD1-8A3C-418E-A4EE-F318EAD2DF5C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>iamrich project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>iamrich</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build iamrich</string>
+			<key>timeStartedRecording</key>
+			<real>595487847.31949103</real>
+			<key>timeStoppedRecording</key>
+			<real>595487893.26227701</real>
+			<key>title</key>
+			<string>Build iamrich</string>
+			<key>uniqueIdentifier</key>
+			<string>FF14FCD1-8A3C-418E-A4EE-F318EAD2DF5C</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
